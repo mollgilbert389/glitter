@@ -1,0 +1,88 @@
+/* CSS Doc-Glitter Style Sheet */
+
+body {
+    text-align: center;
+    align-content: center;
+    align-items: center;
+    align-self: auto;
+    background-image: url("https://d24h4out7wreu3.cloudfront.net/user_store_banner/3639418.jpg");
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    text-align: center;
+    font-family: 'Gill Sans';
+
+}
+
+#navbar-brand {
+    color: plum;
+}
+
+
+#rainbow {
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgba(245, 245, 245, 0.63);
+    padding-bottom: 10px;
+    text-align: center;
+    justify-content: center;
+    width: 800px;
+    border-radius: 8px;
+}
+
+#wrapper {
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    background-color: rgba(245, 245, 245, 0.63);
+    padding-bottom: 10px;
+    text-align: center;
+    justify-content: center;
+    width: 800px;
+    border-radius: 8px;
+    font-size: 35px;
+}
+
+#bottle {
+    border: 10px;
+    border-color: aquamarine;
+    border-style: ridge;
+    height: 300px;
+    width: 300px;
+
+}
+#blue {
+    border: 10px;
+    border-color: darkmagenta;
+    border-style: groove;
+    height: 300px;
+    width: 300px;
+}
+#pink {
+    border: 10px;
+    border-color: royalblue;
+    border-style: dotted;
+    height: 300px;
+    width: 300px;
+}
+#green {
+    border: 10px;
+    border-color: indianred;
+    border-style: inset;
+    height: 300px;
+    width: 300px;
+}
+.rainbow {
+    font-family: 'Gill Sans';
+    color: gold;
+}
+.video {
+    border: 10px;
+    border-color: orangered; 
+    border-style: ridge; 
+}
+.relax {
+    font-weight: bold;
+}
